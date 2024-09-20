@@ -28,6 +28,9 @@ header ul a{
     margin: 0 20px;
     text-decoration: none;
 }
+header ul a:hover{
+    color: #4e9f3d;
+}
 #hero{
     /* background-color:  rgb(132, 0, 255) ; */
     text-align: center;
@@ -90,7 +93,7 @@ main{
 }
 #Descubre p{
     font-size: 25px;
-    color: #000000;
+    color: #ffffff;
 }
 #Descubre .fila1{
     display: flex;
